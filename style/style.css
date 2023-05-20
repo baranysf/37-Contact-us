@@ -82,3 +82,21 @@ body{
 .field:hover{
     background-color: rgba(234,234,234,0.7);
 }
+
+.field:focus{
+    background-color: rgba(34,34,234, 0.7);
+}
+
+.btn{
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(12,198,48);
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(12, 122, 42);
+}
